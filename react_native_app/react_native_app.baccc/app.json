@@ -1,0 +1,12 @@
+{
+  "name": "DOCKER_REACT_NATIVE",
+  "displayName": "DOCKER_REACT_NATIVE",
+  "expo": {
+    "name": "DOCKER_REACT_NATIVE",
+    "slug": "DOCKER_REACT_NATIVE",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
