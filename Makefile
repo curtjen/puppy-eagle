@@ -1,11 +1,9 @@
-CURRENT_DIR := $(shell pwd)
-
-build:
+build:  # Development build
 	@docker-compose build
 
-run:
+run:  # Run development environment
 	@docker-compose run react_native_app
 
-clean:
+clean:  # Clean up Docker container
 	@docker-compose rm
 
